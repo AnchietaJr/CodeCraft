@@ -1,2 +1,2 @@
 # CodeCraft
-A application that I did following CodeCraft's AngularJS Course.
+An application that I did following CodeCraft's AngularJS Course.
